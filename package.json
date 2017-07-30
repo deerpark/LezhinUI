@@ -1,0 +1,23 @@
+{
+  "name": "lezhinui",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/deerpark/LezhinUI.git"
+  },
+  "author": "김용만",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/deerpark/LezhinUI/issues"
+  },
+  "homepage": "https://github.com/deerpark/LezhinUI#readme",
+  "dependencies": {
+    "gitbook-plugin-codepen": "^0.1.2",
+    "gitbook-plugin-jsfiddle": "^1.0.0"
+  }
+}
