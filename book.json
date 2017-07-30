@@ -5,7 +5,6 @@
             "type": "frame",
             "tabs": ["result", "js", "css", "html"],
             "height": "300",
-            "width": "600",
             "fontColor": "4A4A4A"
         }
     }
