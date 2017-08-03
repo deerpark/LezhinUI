@@ -1,11 +1,14 @@
 {
-    "plugins": ["jsfiddle"],
+    "plugins": ["jsfiddle", "disqus"],
     "pluginsConfig": {
         "jsfiddle": {
             "type": "frame",
             "tabs": ["result"],
             "height": "300",
             "fontColor": "4A4A4A"
+        },
+        "disqus": {
+            "shortName": "ji9"
         }
     }
 }
