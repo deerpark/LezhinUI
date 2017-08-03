@@ -10,7 +10,7 @@ scalable하며 다양한 플랫폼에서 사용가능하기 때문.<br>
 
 | option | desc                             |
 |--------|----------------------------------|
-| theme  | 테마 black, white                 |
+| theme  | 테마 black, white..               |
 | scale  | 크기조절 0.5~1 정도가 적당            |
 | shake  | 흘들리는 기울기 0~20 정도가 적당        |
 

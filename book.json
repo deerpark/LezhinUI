@@ -3,7 +3,7 @@
     "pluginsConfig": {
         "jsfiddle": {
             "type": "frame",
-            "tabs": ["result", "js", "css", "html"],
+            "tabs": ["result"],
             "height": "300",
             "fontColor": "4A4A4A"
         }

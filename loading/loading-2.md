@@ -1,8 +1,9 @@
 #로딩중
 
-###예제 1 {#DEMO-2}
-테스트를 위해 1초후 로딩중이 표시되고 5초후 자동으로 사라진다.<br>
-로딩 애니메이션의 크기를 숫자로 입력하여 확인이 사이즈로 테스트 가능하다.
+전체화면 dimmed 상태의 로딩중...
 
-[source code](https://jsfiddle.net/deerpark/dsatLohz/#height=600)
+###원형 {#DEMO-2}
+동그란 원형안에 텍스트의 애니메이션
+
+[source code](https://jsfiddle.net/deerpark/dsatLohz/#height=250&width=400)
 
